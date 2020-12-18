@@ -33,6 +33,6 @@ num = 0
 for grade in grades:
     if grade > average:
         num += 1
-print("Number of grades:", len(grades))
-print("Average grade:", average)
-print("Percentage of grades above average: {0:.2f}%".format(100 * num / len(grades)))
+print("Total Grades are:", len(grades))
+print("The Average of the Grades is:", average)
+print("The Percentage of Grades that are above the average is: {0:.2f}%".format(100 * num / len(grades)))
