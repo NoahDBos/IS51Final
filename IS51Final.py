@@ -7,3 +7,18 @@ there were to determine the class grade average and return that number to the us
 Lastly, it will calculate the percentage of grades that are above the class average
 and return that number to the user.
 """
+
+"""
+infile = open final.txt
+grades = the grades in a line
+infile close()
+for i in range lens grades
+    grades = int
+
+for grades
+    if > average
+
+print numbe of grades
+print average grade
+print grades above average
+"""
